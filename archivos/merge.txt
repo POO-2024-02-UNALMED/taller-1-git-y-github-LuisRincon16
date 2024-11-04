@@ -1,0 +1,2 @@
+Pude realizar la subida de la carpeta desde GitHub Desktop debido a que ya no estaba vacía.
+Al crear un archivo dentro de esta, el repositorio local pudo detectar dicha carpeta como un cambio realizado y me permitió hacer el commit.
