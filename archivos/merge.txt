@@ -1,5 +1,15 @@
+#Contenido del archivo llamado merge.txt creado en el repositorio local:
 Mi nombre es Luis Esteban Rincón Jaimes
 
 Tengo 19 años
 
-Mi aspiración para esta materia es aprender y aplicar la lógica y los conceptos sólidos de la programación, debido a que siempre me ha interesado, pero lo visto anteriormente sobre esta no ha sido muy fructífero. Por lo tanto, quiero lograr el mejor entendimiento y utilización de los lenguajes de programación que trabajaremos a lo largo del curso.
+Mi aspiración para esta materia es aprender y aplicar la lógica y los conceptos sólidos de la programación, debido a que siempre me ha interesado, pero lo visto anteriormente sobre esta no ha sido muy fructífero.
+Por lo tanto, quiero lograr el mejor entendimiento y utilización de los lenguajes de programación que trabajaremos a lo largo del curso.
+
+#Contenido del archivo llamado merge.txt creado en el repositorio remoto:
+Pude realizar la subida de la carpeta desde GitHub Desktop debido a que ya no estaba vacía.
+Al crear un archivo dentro de esta, el repositorio local pudo detectar dicha carpeta como un cambio realizado y me permitió hacer el commit.
+
+#¿Por qué es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?:
+Porque puede generar conflicto y confusiones a la hora de modificar el código.
+Lo cual puede hacer que nos enredemos más de lo normal y, con esto, terminemos perdiendo tiempo y paciencia.
