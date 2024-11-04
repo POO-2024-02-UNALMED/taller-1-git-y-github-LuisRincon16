@@ -1,0 +1,3 @@
+Efectivamente, al crear una carpeta y dejarla vacía no nos permite hacer commit, debido a que el GitHub Desktop no la detecta como un cambio realizado.
+
+Pero al crear este archivo dentro de dicha carpeta, me apareció normalmente disponible junto a esta para hacer commit y subirla al repositorio web.
